@@ -44,4 +44,4 @@
 
 История изменений экзаменационного билета доступна по ссылке:
 [изменения в билете №21](https://github.com/stankin/inet-2022/wiki/exam21/_history),
-[подробнее](https://github.com/stankin/inet-2022/wiki/exam21/_compare/14bec25ca6ae0ca039ec0b5a029b312ec8b1e57b...78f3b80be81a9ab467d44592b91a34263dad6b7c)
+[подробнее](https://github.com/stankin/inet-2022/wiki/exam21/_compare/42de6be0ed97bd9391df185890f99c9f7184a777...c220f35508497d3f213b7ba4eb7001610d71424c)
