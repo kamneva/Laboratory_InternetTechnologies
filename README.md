@@ -33,9 +33,9 @@
 - Расширенные ACL следует размещать как можно ближе к источнику, стандартные – как можно ближе к получателю.
 - Нельзя применить более 1 списка доступа на интерфейс, на протокол, на направление.
 - ACL не действует на трафик, сгенерированный самим маршрутизатором.
-- Адреса сетей записываются в ACL с wildcard маской
+- Адреса сетей записываются в ACL с wildcard маской.
 
-Результат работы в формате .pka можно скачать по [ссылке](https://github.com/kamneva/Laboratory_InternetTechnologies/blob/main/IDB-18-04.Kamneva.Seti.pka), описание в формате .pdf доступно [здесь](https://github.com/kamneva/Laboratory_InternetTechnologies/blob/main/ИДБ-18-04.Камнева.pdf)
+Результат работы в формате .pka можно скачать по [ссылке](https://github.com/kamneva/Laboratory_InternetTechnologies/blob/main/IDB-18-04.Kamneva.Seti.pka), описание в формате .pdf доступно [здесь](https://github.com/kamneva/Laboratory_InternetTechnologies/blob/main/ИДБ-18-04.Камнева.pdf).
 
 ## ✅ Экзаменационные билет №21
 
